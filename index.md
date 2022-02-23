@@ -16,6 +16,8 @@ _Luck is not a factor. Hope is not a strategy. Fear is not an option._ -- James 
 
 With a sufficient number of users of an API, it does not matter what you promise in the contract: all observable behaviors of your system will be depended on by somebody.
 
+Not only will users depend on all features, they will assume that they have an [SLO equivalent to observed behavior](#slo-status-quo).
+
 [hyrumslaw.com](https://www.hyrumslaw.com/)
 
 
