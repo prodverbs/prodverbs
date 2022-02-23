@@ -32,7 +32,7 @@ Referred to as _Hettich's Epigram_ ([twitter](https://twitter.com/jjjtttrrr/stat
 
 ## Your backups are only as good as your last restore. {#test-your-backups}
 
-Unless you restore you data and try to read it with your production systems, you don't know if your backup will work.
+Unless you restore your data and verify you can read it with your production systems, you don't know if your backup will work.
 
 
 ## Global systems fail globally. {#global-systems}
