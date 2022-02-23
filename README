@@ -1,6 +1,9 @@
 Preview with `jekyll serve`.
 
+setup:
 install ruby
 gem install github-pages
-jekyll serve
+
+use: 
+jekyll serve (-w to watch for changes)
 
