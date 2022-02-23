@@ -14,10 +14,8 @@
   </head>
   <body>
     <div class="wrapper">
-        <section>
-
-      {{ content }}
-
+      <section>
+	      {% include anchor_headings.html html=content anchorBody="•" beforeHeading=true h_min=2 %}
       </section>
       <footer>
         {% if site.github.is_project_page %}

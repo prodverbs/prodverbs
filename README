@@ -1,0 +1,6 @@
+Preview with `jekyll serve`.
+
+install ruby
+gem install github-pages
+jekyll serve
+
