@@ -1,5 +1,7 @@
 # Production Proverbs
 
+A collection of [proverbs](https://www.google.com/search?q=define%3Aproverb) and other observations about production distributed systems.
+
 - [[Hyrum’s Law]]
 - [[Hope is not a strategy]]
 - [[When in doubt, the SLO is the status quo]]
