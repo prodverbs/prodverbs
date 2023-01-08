@@ -4,4 +4,4 @@ Unless you restore your data and verify you can read it with your production sys
 
 This is no different than not having backups, except that it costs more.
 
-See also [[Hope is not a strategy]]
+See also [Hope is not a strategy](hope_is_not_a_strategy.md)
