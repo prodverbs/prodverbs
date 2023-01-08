@@ -1,6 +1,6 @@
-# Production Proverbs
+# Prodverbs: Production Proverbs
 
-A collection of [proverbs](https://www.google.com/search?q=define%3Aproverb) and other observations about production distributed systems.
+A collection of observations about production distributed systems.
 
 - [Hyrum's Law](hyrums_law.md)
 - [Hope is not a strategy](hope_is_not_a_strategy.md)
