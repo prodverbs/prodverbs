@@ -10,6 +10,7 @@
     <title>{{$title}} &mdash; Prodverbs</title>
     <meta property="og:title" content="{{$title}} - Prodverbs">
     <meta name="twitter:title" value="{{$title}} - Prodverbs">
+    <meta name="google-site-verification" content="Wu0U-NT6DYE1H2S7bocH_lObgtO_WEkWb6x_bk2Q06A" />
     <link rel="shortcut icon" type="image/jpg" href="/static/favicon.jpg"/>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -41,10 +42,11 @@
 	      margin-bottom: 0.3em;
       }
       a {
-	      color: #333;
-	      text-decoration-thickness: 1px;
-	      text-decoration-color: #666;
+	      color: #444;
+	      text-decoration-thickness: 2px;
+	      text-decoration-color: #999;
 	      text-decoration-style: dotted;
+	      font-weight: bolder;
       }
       h1 {
 	      font-size: 24pt;
@@ -53,9 +55,9 @@
   </head>
   <body>
 	  <div class="header">
-		  <img src="/static/favicon.jpg">
-		  |
-		  <a href="/">home</a>
+		  <a href="/"><img src="/static/favicon.jpg">
+		  home</a>
+		  &gt; {{$title}}
 		  |
 		  <a href="/contributing.md">contributing</a>
 	  </div>
