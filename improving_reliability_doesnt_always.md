@@ -4,6 +4,6 @@ Also known as [Lorin's Law](https://surfingcomplexity.blog/2017/06/24/a-conjectu
 
 Many major incidents are triggered by:
 * An attempt to resolve minor incidents through manual intervention
-* Unexpected behavior of a subsystem designed to improve reliability (gone haywire)
+* Unexpected behavior of a subsystem designed to improve reliability
 
 See also: [Global systems fail globally](global_systems_fail_globally.md)
