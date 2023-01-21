@@ -10,6 +10,7 @@ A collection of observations about production distributed systems.
 - [Security at the expense of usability comes at the expense of security](security_vs_usability.md)
 - [Turndowns, not just deprecations](turndowns_not_deprecations.md)
 - [Incomplete migrations are technical debt](incomplete_migrations.md)
+- [Improving Reliability Doesn't Always](improving_reliability_doesnt_always.md)
 
 If you would like to contribute, please see:
 - [Contributing](contributing.md)
